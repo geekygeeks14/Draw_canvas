@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+canvas {
+  margin-top: 20px;
+  background-color: gainsboro;
+  color: red;
+}
