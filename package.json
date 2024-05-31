@@ -1,5 +1,5 @@
 {
-  "homepage":"https://geekygeeks14.github.io/Draw_canvas",
+  "homepage": "https://geekygeeks14.github.io/Draw_canvas",
   "name": "Draw_canvas",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
